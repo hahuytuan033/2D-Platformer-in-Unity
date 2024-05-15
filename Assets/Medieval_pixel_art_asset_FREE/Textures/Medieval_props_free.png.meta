@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: ae3918a914038694d852d0bb81f62473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Medieval_props_free_0
+  - first:
+      213: 21300002
+    second: Medieval_props_free_1
+  - first:
+      213: 21300004
+    second: Medieval_props_free_2
+  - first:
+      213: 21300006
+    second: Medieval_props_free_3
+  - first:
+      213: 21300008
+    second: Medieval_props_free_4
+  - first:
+      213: 21300010
+    second: Medieval_props_free_5
+  - first:
+      213: 21300012
+    second: Medieval_props_free_6
+  - first:
+      213: 21300014
+    second: Medieval_props_free_7
+  - first:
+      213: 21300016
+    second: Medieval_props_free_8
+  - first:
+      213: 21300018
+    second: Medieval_props_free_9
+  - first:
+      213: 21300020
+    second: Medieval_props_free_10
+  - first:
+      213: 21300022
+    second: Medieval_props_free_11
+  - first:
+      213: 21300024
+    second: Medieval_props_free_12
+  - first:
+      213: 21300026
+    second: Medieval_props_free_13
+  - first:
+      213: 21300028
+    second: Medieval_props_free_14
+  - first:
+      213: 21300030
+    second: Medieval_props_free_15
+  - first:
+      213: 21300032
+    second: Medieval_props_free_16
+  - first:
+      213: 21300034
+    second: Medieval_props_free_17
+  - first:
+      213: 21300036
+    second: Medieval_props_free_18
+  - first:
+      213: 21300038
+    second: Medieval_props_free_19
+  - first:
+      213: 21300040
+    second: Medieval_props_free_20
+  - first:
+      213: 21300042
+    second: Medieval_props_free_21
+  - first:
+      213: 21300044
+    second: Medieval_props_free_22
+  - first:
+      213: 21300046
+    second: Medieval_props_free_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_props_free_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 122
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8129982070e8c46b5ecc311b240c3b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44449f50fee4e0498c94d181c1cd239
+      internalID: 172533338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00247453f9b334483510f243ee5c5f
+      internalID: 631137858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ddcd0741a3d342ad893f56ac3e518
+      internalID: 1025991691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4328f38545aa48b52daef9e09d2f1
+      internalID: 1872410014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 115
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba885f277617c2c4bb3b188c9772480a
+      internalID: 1901456910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 115
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90074ff02ccc76a4bbcab5d95c5a7e7d
+      internalID: -1674035211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 115
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35afc40a9959d354e893682714806ea4
+      internalID: 483657145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 115
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843525bbc4ab7d442a052fa0ea2ec408
+      internalID: -1554338288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 115
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870bfe138061ea498bb436f2f72c4cd
+      internalID: 1744589458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 115
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966a4ca5c3ef574c93343c531c96a12
+      internalID: -623099808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfff010c3678394fa26c901e13db713
+      internalID: -1731053757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6286318, y: 0.57614833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98293628cad5a4aaf191d10da660a2
+      internalID: -1379979533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40145f6ce483d498703b5b9fe8f13e
+      internalID: 1839791357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 54
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9a7ec0c3b36545b0450c7510f5707
+      internalID: -423398157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 31
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe17ea762ed824d9461e9316c38e36
+      internalID: -133640518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b1e76c0b96854990fcca6d5a55617
+      internalID: -1859377691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 52
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c3831b1deb6645a8b0d9cd61823eb
+      internalID: 1425280719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 42
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73afa46df8630754abbb266f8e790b1a
+      internalID: 957297694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 42
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07b64fbbed4774397622255031cba3
+      internalID: 71100387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 55
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d6d308e294a34286932cdd4543576
+      internalID: -824754772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 56
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177e63099758af42800334e2bcadebd
+      internalID: -1162258715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413fce792a85c0b4f8afc21fce81ac57
+      internalID: -788316927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_free_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 31
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec02a29c2050ca49bd33ffb9f1197e1
+      internalID: 7315869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 58a5635cd78ac5d4e98536259fd04d67
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Medieval_props_free_0: 21300000
+      Medieval_props_free_1: 172533338
+      Medieval_props_free_10: -623099808
+      Medieval_props_free_11: -1731053757
+      Medieval_props_free_12: -1379979533
+      Medieval_props_free_13: 1839791357
+      Medieval_props_free_14: -423398157
+      Medieval_props_free_15: -133640518
+      Medieval_props_free_16: -1859377691
+      Medieval_props_free_17: 1425280719
+      Medieval_props_free_18: 957297694
+      Medieval_props_free_19: 71100387
+      Medieval_props_free_2: 631137858
+      Medieval_props_free_20: -824754772
+      Medieval_props_free_21: -1162258715
+      Medieval_props_free_22: -788316927
+      Medieval_props_free_23: 7315869
+      Medieval_props_free_3: 1025991691
+      Medieval_props_free_4: 1872410014
+      Medieval_props_free_5: 1901456910
+      Medieval_props_free_6: -1674035211
+      Medieval_props_free_7: 483657145
+      Medieval_props_free_8: -1554338288
+      Medieval_props_free_9: 1744589458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
